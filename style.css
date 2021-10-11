@@ -31,12 +31,14 @@ ul{
     list-style-type: none
 }
 .Bigt{
+    background-color: rgb(192, 249, 253);
     width: 1800px;
     height: 800px;
     border-spacing: 25px;
     margin: 15px auto;
 }
 .Leftt, .Rightt{
+    background-color: ghostwhite;
     border-radius: 5px;
     margin: 0,15px;
     padding: 0,25px;
@@ -62,4 +64,13 @@ ul{
     height: 150px;
     padding: 10px 0;
     border-bottom: 1px solid black;
+}
+.dcme{
+    border: 0;
+    background:rgb(203, 255, 203);
+    width: 50 px;
+    text-align: center;
+}
+.Cme{
+    font-size: 30px;
 }
